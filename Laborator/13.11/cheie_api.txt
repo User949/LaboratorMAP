@@ -1,0 +1,1 @@
+https://home.openweathermap.org/api_keys -> Accesati linkul si copiati cheia API
